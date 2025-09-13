@@ -1,0 +1,7 @@
+fastapi
+motor
+pydantic
+python-jose
+passlib[bcrypt]
+gridfs
+uvicorn
